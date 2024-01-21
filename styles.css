@@ -74,7 +74,7 @@ nav {
 .features {
     padding: 4em 0;
     text-align: center;
-    background-color: #3a5a40;
+    background-color: #98FB98;
 }
 
 .about {
@@ -121,8 +121,8 @@ button:hover {
 }
 
 footer {
-    background-color: #333;
-    color: #3a5a40;
+    background-color: #98FB98;
+    color: #98FB98;
     text-align: center;
     padding: 1em 0;
 }
