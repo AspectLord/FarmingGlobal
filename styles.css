@@ -7,7 +7,7 @@ body {
 }
 
 header {
-    background-color: #964B00;
+    background-color: #5C4033;
     color: white;
     padding: 1em;
     position: fixed;
@@ -41,7 +41,7 @@ nav {
 }
 
 .hero {
-    background-color: #5C4033;
+    background-color: #3a5a40;
     color: white;
     text-align: center;
     padding: 5em 0;
@@ -74,7 +74,7 @@ nav {
 .features {
     padding: 4em 0;
     text-align: center;
-    background-color: #98FB98;
+    background-color: #3a5a40;
 }
 
 .about {
@@ -121,8 +121,8 @@ button:hover {
 }
 
 footer {
-    background-color: #98FB98;
-    color: #98FB98;
+    background-color: #333;
+    color: #3a5a40;
     text-align: center;
     padding: 1em 0;
 }
