@@ -7,7 +7,7 @@ body {
 }
 
 header {
-    background-color: ##98FF98;
+    background-color: #98FF98;
     color: white;
     padding: 1em;
     position: fixed;
@@ -41,7 +41,7 @@ nav {
 }
 
 .hero {
-    background-color: #964B00;
+    background-color: #5C4033;
     color: white;
     text-align: center;
     padding: 5em 0;
